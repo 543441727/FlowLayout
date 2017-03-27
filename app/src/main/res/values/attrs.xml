@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FlowLayout">
+        <!--    标签之间的间距-->
+        <attr name="lineSpace" format="dimension"/>
+        <!--    每一行之间的间距-->
+        <attr name="rowSpace" format="dimension"/>
+    </declare-styleable>
+</resources>
